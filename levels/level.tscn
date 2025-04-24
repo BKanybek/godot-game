@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://drm8vbhqiprg3"]
+
+[node name="level" type="Node2D"]
+
+[node name="Label" type="Label" parent="."]
+offset_left = 522.0
+offset_top = 270.0
+offset_right = 655.0
+offset_bottom = 325.0
+theme_override_font_sizes/font_size = 40
+text = "Lelev 1"
